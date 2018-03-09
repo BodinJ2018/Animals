@@ -1,0 +1,121 @@
+<Animals>
+
+	<Birds>
+		<Parrot>
+			<LoveBird></LoveBird>
+					<Fred> Age="23" wieght"2" </Fred>
+					<Bob> Age="23" wieght"2" </Bob>
+			<Cockatoo></Cockatoo>
+					<Emma> Age="23" wieght"2" </Emma>
+					<Danny> Age="23" wieght"2" </Danny>
+			<Nestor></Nestor>
+					<Patty> Age="23" wieght"2" </Patty>
+					<Corbin> Age="23" wieght"2" </Corbin>
+		</Parrot>
+
+		<Hummingbird>
+			<Hermit></Hermit>
+					<Derick> Age="23" wieght"2" </Derick>
+					<Cooper> Age="23" wieght"2" </Cooper>
+			<Violetear></Violetear>
+					<Opal> Age="23" wieght"2" </Opal>
+					<Hale> Age="23" wieght"2" </Hale>
+			<Stellaula></Stellaula>
+					<Perry> Age="23" wieght"2" </Perry>
+					<Colin> Age="23" wieght"2" </Colin>
+					
+		</Hummingbird>
+
+		<Owl>
+			<HornedOwl></HornedOwl>
+					<Livvia> Age="23" wieght"7" </Livvia>
+					<Percy> Age="23" wieght"7" </Percy>
+			<TrueOwl></TrueOwl>
+					<Trever> Age="23" wieght"7" </Trever>
+                                        <Mason> Age="23" wieght"7" </Mason>					
+			<BarnOwl></BarnOwl>
+                                        <Gale> Age="23" wieght"7" </Gale>
+                                        <Alex> Age="23" wieght"7" </Alex>
+
+		</Owl>
+	</Birds>
+
+	<Mammals>
+	
+		<Cats>
+			<MountainLion></MountainLion>
+                                        <Ben> Age="23" wieght"12" </Ben>
+                                        <Sean> Age="23" wieght"12" </Sean>
+			<Panther></Panther>
+                                        <Kelly> Age="23" wieght"12" </Kelly>
+                                        <Will> Age="23" wieght"12" </Will>
+			<‎Abyssinian></‎Abyssinian>
+                                        <Rose> Age="23" wieght"12" </Rose>
+                                        <Linda> Age="23" wieght"12" </Linda>
+
+		</Cats>
+
+		<Dogs>
+			<Labrador></Labrador>
+                                        <John> Age="23" wieght"25" </John>
+                                        <Yom> Age="23" wieght"25" </Tom>
+
+			<GreatDane></GreatDane>
+                                        <Paul> Age="23" wieght"40" </Paul>
+                                        <Mark> Age="23" wieght"40" </Mark>
+
+			<Poodle></Poodle>
+                                        <Thomas> Age="23" wieght"34" </Thomas>
+                                        <Adam> Age="23" wieght"34" </Adam>
+
+		</Dogs>
+	
+		<Bear>
+			<Panda></Panda>
+                                        <Judy> Age="23" wieght"2" </Judy>
+                                        <Alan> Age="23" wieght"2" </Alan>
+
+			<BrownBear></BrownBear>
+                                        <Anna> Age="23" wieght"2" </Anna>
+                                        <Nancy> Age="23" wieght"2" </Nancy>
+
+			<BlackBear></BlackBear>
+                                        <Gale> Age="23" wieght"2" </Gale>
+                                        <Alex> Age="23" wieght"2" </Alex>
+
+		</Bear>
+
+	</Mammals>
+		
+		<Reptiles>
+			<Snakes></Snakes>
+                                        <Gale> Age="23" wieght"2" </Gale>
+                                        <Alex> Age="23" wieght"2" </Alex>
+
+			<Lizard></Lizard>
+                                        <Gale> Age="23" wieght"2" </Gale>
+                                        <Alex> Age="23" wieght"2" </Alex>
+
+			<Turtle></Turtle>
+                                        <Gale> Age="23" wieght"2" </Gale>
+                                        <Alex> Age="23" wieght"2" </Alex>
+
+		</Reptiles>
+
+		<Fish>
+			<Carp>
+			
+			
+		</Fish>
+
+		<Amphibians>
+			
+			
+			
+
+		</Amphibians>
+</Animals>
+
+
+
+
